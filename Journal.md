@@ -8,6 +8,10 @@ I had an issue was with adding an image into the file... then I followed the com
 
 I learned that when there's instruction follow them through every step and not try to cut corners. 
 
+For the second reading, it was to take notes using two browser.
+
+
+
 When I was using Zotero, I was confused about how to process so I searched up instructions @google.
 
 The following website was really helpful: https://www.zotero.org/support/quick_start_guide. 
