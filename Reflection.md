@@ -94,13 +94,13 @@ Conclusion
 
 Reading 2: History Can Be Open Source: Democratic Dreams and the Rise of Digital History
 
-talks about how Wikipedia is a successful work of digital history. Although it is not recognized as a resource for academic purpose, it can be used to lay a foundation for a more accurate information platform. 
-Rosenzweig point of history can be an open source has become true after a decade. Historians have always been critical of Open Educational Resources and the ideology behind it. This article provides a critical evaluation regarding OER in the place of historians by analyzing the foundation and history of the digital history movement. It proposes ways to increase support and broaden the field. 
-“Democratization” gave rise to digital humanities… According to Philip E. Agre an information study scholar technology would allow academics to be democratized and open the existing practices… This concept was proposed by many to transform the way history was accessed and understood. 
-“Democratization” lurks in digital history. It is intertwined with the field. John Dewey states that democracy has to be born anew every generation. 
-disruption does not equal democracy. The article confronts the origin of democracy in digital history by placing it in a historical context… and moving towards a positive definition of democracy that moves beyond the technology and digital aspects. 
-democracy is a hard term to define. As digital historians associate it with structural inequalities, it an be branched into analyzing open access and participation. 
-the internet led to the push in open access and OER into the mainstream. The recent generation finds that not enough, they strive for a much broader term and aim to expand on the structured notions set by academy. There is a transformation in the definition of democracy that has been long defined. 
+- talks about how Wikipedia is a successful work of digital history. Although it is not recognized as a resource for academic purpose, it can be used to lay a foundation for a more accurate information platform. 
+- Rosenzweig point of history can be an open source has become true after a decade. Historians have always been critical of Open Educational Resources and the ideology behind it. This article provides a critical evaluation regarding OER in the place of historians by analyzing the foundation and history of the digital history movement. It proposes ways to increase support and broaden the field. 
+- “Democratization” gave rise to digital humanities… According to Philip E. Agre an information study scholar technology would allow academics to be democratized and open the existing practices… This concept was proposed by many to transform the way history was accessed and understood. 
+- “Democratization” lurks in digital history. It is intertwined with the field. John Dewey states that democracy has to be born anew every generation. 
+- disruption does not equal democracy. The article confronts the origin of democracy in digital history by placing it in a historical context… and moving towards a positive definition of democracy that moves beyond the technology and digital aspects. 
+- democracy is a hard term to define. As digital historians associate it with structural inequalities, it an be branched into analyzing open access and participation. 
+- the internet led to the push in open access and OER into the mainstream. The recent generation finds that not enough, they strive for a much broader term and aim to expand on the structured notions set by academy. There is a transformation in the definition of democracy that has been long defined. 
  
 Reading 3: Thread by Levi
 
