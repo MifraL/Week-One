@@ -1,4 +1,4 @@
-When I first signed ip for github, I panicked a bit because I skipped the step for choosing the free student pass... Thankfully, I believe it was added to my profile (I checked it!!!). 
+When I first signed ip for github, I panicked a bit because I skipped the step for choosing the free student pass... Thankfully, my account was still the free account!!! 
 
 I had an issue was with adding an image into the file... then I followed the command in the video exactly as it was and it worked !!!
 
@@ -7,6 +7,10 @@ I had an issue was with adding an image into the file... then I followed the com
 ![image i just uploaded](mistake2.JPG)
 
 I learned that when there's instruction follow them through every step and not try to cut corners. 
+
+When I was using Zotero, I was confused about how to process so I searched up instructions @google.
+
+The following website was really helpful: https://www.zotero.org/support/quick_start_guide. 
 
 
 
