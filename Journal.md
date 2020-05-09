@@ -12,7 +12,7 @@ When I was using Zotero, I was confused about how to process so I searched up in
 
 The following website was really helpful: https://www.zotero.org/support/quick_start_guide. 
 
-
+![image i just uploaded](zotero1.JPG)
 
 
 
