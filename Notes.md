@@ -20,7 +20,11 @@ The final reading was a thread by Amalia Skarlatou Levi. Two terms that came up 
 
 Digitalarchives
 
+From what I understood through the readings, it means an online database of historical records. It could be from academic instutions and non academic institutions such as archives, library, museums, etc.
+
 Archivalsilences
+
+There are like gaps or unrecorded history in archival records. It could about women, minorities, etc. The list goes on and on... like in Amalia Levi's thread. 
 
 
 
