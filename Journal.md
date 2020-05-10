@@ -28,9 +28,15 @@ If there were any failures that I might have encountered, there were minimal to 
 
 - My idea of "digital history."
 
-Prior to this class, I only had a bit of experience in digital history. Last semester, one of my history methods class made us to a project that involved two websites known as scalar and VMAO. The materials that I came across confirmed that notion, it showed a broader scale than I expected like example I did not think Wikipedia was a digital archive nor the library, museum archives. 
+Prior to this class, I only had a bit of experience in digital history. Last semester, one of my history methods class made us do a project that involved two websites named scalar and VMAO. I believed that to be the defition of digital history. I did not think it would be so broad that it includes non academic institutions such as library, museum, etc. This weeks materials helped me broaded the idea of what digital history could mean. At first, I took the class thinking that I would not need to use it later in my career because I personally do not like working with digital tools. Right now, my view has changed a bit. I do believe it is essential to be familiar with these online tools even if you don't like using them. As technology advances, it is only going to get more convenient to use in our fields. 
 
 - "Digital silences" that I have encoutered.
+
+The thread by Levi was a really good starter to talking about digital silences online. 
+
+I liked her reminder about how digitization is selective. This brings back the point where if youre history, it is highly biased due to external pressure and it is definitely not accurate. Some of my classes that I took, we always talk about how history and past are different. They often get mistaken for the same thing. It should be remembering that history is an interpretation of a person from their own perspective that is subjected to heavy influences. This can be similar to digital history where everything is not as it seems. (2) 
+
+Her third point where the archival description should be read alongside the digitized items is again a great tip. Prior to this class, I took introduction to photography where we talked about how photographs in black and white were mostly considered serious and realistic compared to the color photos when both were as heavily manipulated as each other. They worked well in newspapers because they were described and had context. But then the same picture can be also used for a different newspaper to prove something else. 
 
 A digital silence that I personally encountered would be the lack of sources on the LGBTQ+ community specifically on their architecture in Canada. I did a practicum last fall and I had to do research on the topic. It was hard to find any credible sources that were peer reviewed. 
 
