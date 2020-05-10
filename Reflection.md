@@ -108,18 +108,26 @@ I followed the digital archive thread @thomasgpadillahttps://buff.ly/2WvoFjb #di
 
 I came across Mayra Corn who put a link to a reflection about the topic of learning to fail @ https://libparlor.com/2020/05/05/learning-to-fail/. 
 
+![image i just uploaded](digit2.JPG)
+
 This was an interesting thing to come across because I listened to the recording by the prof and he mentioned that same topic. It is nice to know that other people in the industry are also considering that point of view.  The article was about having a career in an institution and when you are engaged, the pressure to be perfect without making errors. The fear that comes with that. An event series started by the business industry to share and learn from mistakes had been adapted by the academic institutions. It is a step in the direction which speaks about people’s failure and rejection. It breaks down that innate sense of fear towards mistakes and brings the students and faculty much closer. These risks are now another chance to explore new things and learn from each other’s mistakes. 
 
-There was also another one by Chris Hougton in the same thread…. The article recommended talks about the selection criteria that shape digital archives of historical newspapers…. @ https://link.springer.com/article/10.1007/s10502-020-09332-1,
+There was also another one by Chris Hougton in the same thread…. The article recommended talks about the selection criteria that shape digital archives of historical newspapers…. @ https://link.springer.com/article/10.1007/s10502-020-09332-1.
+
+![image i just uploaded](digit3.JPG)
 
 I found the way the author went about the topic wonderful. They interviewed people in the field and did a study which later helped them analyze the conversations with the aspect of digitizing historic newspaper and compare it to the current digital newspaper practices. 
 -	I found a thread by the LALibraryAssociation about from a collection which shows two guys in a baseball team. I found the picture high quality…. 
 -	Amelia Levi tagged a digital archive which is the first database connecting objects, visual arts and literature. How cool is that!!! @ https://sites.udel.edu/thingstor/
 
+![image i just uploaded](digit5.JPG)
+
 This is a nice initiative and I hope to see it grow…
 
 I also visited the #archivalsilences thread 
 -	The tag by Thomas Schmid regarding Emily hale letters led me to google search the people involved… and Wikipedia was a helpful source to gain a basis understanding which can be tied to the open review where history is viewed as an open source. @ http://blogs.harvard.edu/houghton/the-love-of-a-ghost-for-a-ghost-t-s-eliot-on-his-letters-to-emily-hale/ 
+
+![image i just uploaded](digit7.JPG)
 
 Back to Levi’s thread 
 
