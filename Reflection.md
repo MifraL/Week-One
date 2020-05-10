@@ -102,11 +102,13 @@ Reading 2: History Can Be Open Source: Democratic Dreams and the Rise of Digital
 - democracy is a hard term to define. As digital historians associate it with structural inequalities, it an be branched into analyzing open access and participation. 
 - the internet led to the push in open access and OER into the mainstream. The recent generation finds that not enough, they strive for a much broader term and aim to expand on the structured notions set by academy. There is a transformation in the definition of democracy that has been long defined. 
  
-Reading 3: Thread by Levi
+- Reading 3: Thread by Levi
 
 I followed the digital archive thread @thomasgpadillahttps://buff.ly/2WvoFjb #digitalarchives
 
 I came across Mayra Corn who put a link to a reflection about the topic of learning to fail @ https://libparlor.com/2020/05/05/learning-to-fail/. 
+
+This was an interesting thing to come across because I listened to the recording by the prof and he mentioned that same topic. It is nice to know that other people in the industry are also considering that point of view.  The article was about having a career in an institution and when you are engaged, the pressure to be perfect without making errors. The fear that comes with that. An event series started by the business industry to share and learn from mistakes had been adapted by the academic institutions. It is a step in the direction which speaks about people’s failure and rejection. It breaks down that innate sense of fear towards mistakes and brings the students and faculty much closer. These risks are now another chance to explore new things and learn from each other’s mistakes. 
 
 There was also another one by Chris Hougton in the same thread…. The article recommended talks about the selection criteria that shape digital archives of historical newspapers…. @ https://link.springer.com/article/10.1007/s10502-020-09332-1,
 
@@ -121,3 +123,4 @@ I also visited the #archivalsilences thread
 
 Back to Levi’s thread 
 
+She mentions a lot of minorities in the society that does not have a lot of online presence. This in turn, creates a lack of accurate information regarding them. Some of them have started to create their own databases and it should be encouraged more so that people can learn the correct informations. 
